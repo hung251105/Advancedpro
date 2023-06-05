@@ -1,0 +1,15 @@
+E:\học\C#\Advancedpro\Advancedpro\bin\Debug\net6.0\Advancedpro.exe
+E:\học\C#\Advancedpro\Advancedpro\bin\Debug\net6.0\Advancedpro.deps.json
+E:\học\C#\Advancedpro\Advancedpro\bin\Debug\net6.0\Advancedpro.runtimeconfig.json
+E:\học\C#\Advancedpro\Advancedpro\bin\Debug\net6.0\Advancedpro.dll
+E:\học\C#\Advancedpro\Advancedpro\bin\Debug\net6.0\Advancedpro.pdb
+E:\học\C#\Advancedpro\Advancedpro\obj\Debug\net6.0\Advancedpro.csproj.AssemblyReference.cache
+E:\học\C#\Advancedpro\Advancedpro\obj\Debug\net6.0\Advancedpro.GeneratedMSBuildEditorConfig.editorconfig
+E:\học\C#\Advancedpro\Advancedpro\obj\Debug\net6.0\Advancedpro.AssemblyInfoInputs.cache
+E:\học\C#\Advancedpro\Advancedpro\obj\Debug\net6.0\Advancedpro.AssemblyInfo.cs
+E:\học\C#\Advancedpro\Advancedpro\obj\Debug\net6.0\Advancedpro.csproj.CoreCompileInputs.cache
+E:\học\C#\Advancedpro\Advancedpro\obj\Debug\net6.0\Advancedpro.dll
+E:\học\C#\Advancedpro\Advancedpro\obj\Debug\net6.0\refint\Advancedpro.dll
+E:\học\C#\Advancedpro\Advancedpro\obj\Debug\net6.0\Advancedpro.pdb
+E:\học\C#\Advancedpro\Advancedpro\obj\Debug\net6.0\Advancedpro.genruntimeconfig.cache
+E:\học\C#\Advancedpro\Advancedpro\obj\Debug\net6.0\ref\Advancedpro.dll
